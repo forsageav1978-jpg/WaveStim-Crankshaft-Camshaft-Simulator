@@ -1,0 +1,27 @@
+SET(SOURCES ui_Screen_1_Main.c
+    ui_Screen_2_Setting.c
+    ui_Screen1.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_backgroundlight_png.c
+    ui_img_btn_main_png.c
+    ui_img_btn_setting_png.c
+    ui_img_btn_print_down_png.c
+    ui_img_btn_print_top_off_png.c
+    ui_img_arrow_right_png.c
+    ui_img_pot_slider_png.c
+    ui_img_btn_main_off_png.c
+    ui_img_btn_main_on_png.c
+    ui_img_btn_minus_png.c
+    ui_img_btn_up_png.c
+    ui_img_btn_pattern_png.c
+    ui_img_noimage_png.c
+    ui_img_icn_bed_png.c
+    ui_img_icn_stop_png.c
+    fonts/ui_font_Font1.c
+    fonts/ui_font_Small_Font.c
+    fonts/ui_font_Font2.c
+    fonts/ui_font_Font22.c)
+
+add_library(ui ${SOURCES})
