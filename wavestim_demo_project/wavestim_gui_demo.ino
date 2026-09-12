@@ -1,3 +1,21 @@
+/**
+ * @file wavestim_gui_demo.ino
+ * @brief WaveStim High-Tech UI & LVGL Initialization (Demo Showcase Version)
+ * 
+ * COPYRIGHT NOTICE:
+ * Copyright (c) 2026 WaveStim Tech. All rights reserved.
+ * 
+ * This file contains ONLY the display initialization, touch controller setup,
+ * and LVGL GUI rendering logic. 
+ * 
+ * NOTE: This is a frontend demo. The core commercial logic—including .ptn binary 
+ * parsing, dynamic SD-card streaming, and high-precision hardware timer signal 
+ * generation—is PROPRIETARY and NOT included in this public repository.
+ * 
+ * For full commercial firmware licenses and complete hardware kits, please 
+ * contact the author via the links in README.md.
+ */
+
 #include <Arduino.h>
 #include <ESP_Panel_Library.h>
 #include <esp_display_panel.hpp>
