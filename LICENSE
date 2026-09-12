@@ -1,0 +1,13 @@
+Copyright (c) 2026 WaveStim Tech. All rights reserved.
+
+Commercial Software and Hardware Notice:
+The WaveStim firmware, Web Pattern Builder source code, binary container (.ptn/.bin) structure, and UI layouts are proprietary software and intellectual property of the author.
+
+Strictly Prohibited:
+1. Copying, modifying, or distributing any part of this project.
+2. Flashing the proprietary firmware onto unauthorized Waveshare hardware for commercial resale.
+3. Cloning the interface design or layout for competing products.
+
+This repository serves strictly as a product showcase, documentation hub, and official portfolio. No functional source code is provided under open-source terms.
+
+For purchasing official hardware, firmware licenses, and complete pattern databases, contact the author via the links provided in the README.md file.
